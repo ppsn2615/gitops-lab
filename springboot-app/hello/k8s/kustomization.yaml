@@ -9,4 +9,4 @@ resources:
 images:
 - name: parkhana2/hello-app
   newName: parkhana2/hello-app
-  newTag: 2102bd5
+  newTag: e0c2ae5
